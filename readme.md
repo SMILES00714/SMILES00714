@@ -21,15 +21,15 @@ width="47%"/>
   
 ### Connect with me:
 
-[<img height="22" width="22" align="left" src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/linkedin.svg" />][linkedin]
+[<img height="22" width="22" align="left" src="skype.svg" />][skype]
 
-[<img height="22" width="22" align="left" src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/instagram.svg" />][Instagram]
+[<img height="22" width="22" align="left" src="discord.svg" />][discord]
 
-[<img height="22" width="22" align="left" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/facebook.svg" />][Facebook]
+[<img height="22" width="22" align="left" src="telegram.svg" />][telegram]
 
-[Linkedin]: https://www.linkedin.com/in/rasif-tagizada/
-[Instagram]: https://www.instagram.com/_.rasif._10/
-[Facebook]: https://www.facebook.com/rasiftaghizada
+[skype]: live:.cid.4c78744404628df3
+[discord]: smiles00714
+[telegram]: @smiles00714
 
 <br />
 
