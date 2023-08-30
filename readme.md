@@ -21,11 +21,11 @@ width="47%"/>
   
 ### Connect with me:
 
-[<img height="22" width="22" align="left" src="skype.svg" />][skype]
+[<img height="22" width="22" align="left" src="skype.svg" title="live:.cid.4c78744404628df3"/>][skype]
 
-[<img height="22" width="22" align="left" src="discord.svg" />][discord]
+[<img height="22" width="22" align="left" src="discord.svg" title="smiles00714" />][discord]
 
-[<img height="22" width="22" align="left" src="telegram.svg" />][telegram]
+[<img height="22" width="22" align="left" src="telegram.svg" title="@smiles00714" />][telegram]
 
 [skype]: live:.cid.4c78744404628df3
 [discord]: smiles00714
