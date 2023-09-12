@@ -14,10 +14,6 @@
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SMILES00714&layout=compact" align="left" 
 width="47%"/>
 
-<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=SMILES00714&" alt="SMILES00714" /></p>
-
-
-
 <br/>
   
 ### Connect with me:
