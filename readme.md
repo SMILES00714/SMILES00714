@@ -1,34 +1,10 @@
 
-<a href=#><img src="logo2.png"></a>
-
-<p align="center"> 
-  Visitor count<br>
-  <img src="https://profile-counter.glitch.me/SMILES00714/count.svg"/>
-</p>
-<h2 align="center"> Hi there, I'm Louis <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width=22px height=22px />
-<h2/>
-
 <img src="https://github-readme-stats.vercel.app/api?username=SMILES00714&theme=blue-green&show_icons=true" align="left" width="48%"/>
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SMILES00714&layout=compact" align="left" 
 width="47%"/>
 
 <br/>
-  
-### Connect with me:
-
-[<img height="22" width="22" align="left" src="skype.svg" title="live:.cid.4c78744404628df3"/>][skype]
-
-[<img height="22" width="22" align="left" src="discord.svg" title="smiles00714" />][discord]
-
-[<img height="22" width="22" align="left" src="telegram.svg" title="@smiles00714" />][telegram]
-
-[skype]: live:.cid.4c78744404628df3
-[discord]: smiles00714
-[telegram]: @smiles00714
-
-<br />
-
 
 <h2 font-weight="bold">𝐒𝐤𝐢𝐥𝐥 𝐒𝐞𝐭</h2>
 <table>
