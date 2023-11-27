@@ -1,8 +1,5 @@
-
-<img src="https://github-readme-stats.vercel.app/api?username=SMILES00714&theme=blue-green&show_icons=true" align="left" width="48%"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SMILES00714&layout=compact" align="left" 
-width="47%"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SMILES00714&layout=compact" align="center" 
+width="90%"/>
 
 <br/>
 
